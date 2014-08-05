@@ -22,3 +22,8 @@ Microsoft SQL Server
 Planned Features List
 =====
 
+| Feature         | Required  | Implemented | Tested  | Completed |
+| -------------   |:-------:  | :-----:     | :-----: | :-----:   |
+| Feature 1       | x         |  x          | x       | x         |
+| Feature 2       | x         |  x          | x       | x         |
+| Feature 3       | x         |  x          | x       | x         |
